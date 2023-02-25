@@ -80,6 +80,9 @@ function drawCards(num)
         
     }
     
+   console.log("Deck",Deck);
+   console.log("Hand",Hand);
+   console.log("Muck",Muck);
     //current display of Hand contents
     showHand(Hand);
    
